@@ -1,11 +1,3 @@
 <template>
-  <div>
-    <pre
-      >{{ data }}
-    </pre>
-  </div>
+  <div>hello</div>
 </template>
-
-<script setup lang="ts">
-const { data } = await useFetch("/api/getuser");
-</script>

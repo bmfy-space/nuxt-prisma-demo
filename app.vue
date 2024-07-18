@@ -1,3 +1,5 @@
 <template>
-  <div>hello</div>
+  <div>this is a server</div>
 </template>
+
+<script setup lang="ts"></script>
